@@ -1,0 +1,9 @@
+﻿Build started 2017/8/24 10:13:55.
+     1>Project "D:\version\openvr\samples\hellovr_opengl\hellovr_opengl.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\hellovr_opengl.lastbuildstate".
+     1>Done Building Project "D:\version\openvr\samples\hellovr_opengl\hellovr_opengl.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25
